@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS06;
+
 import java.util.Scanner;
 
 public class SumofNums {
@@ -8,11 +10,11 @@ public class SumofNums {
         System.out.print("Enter a number (-1 to quit): ");
         int number = console.nextInt();
 
-        while (number != -1) {
+        do {
             sum = sum + number;     // moved to top of loop
             System.out.print("Enter a number (-1 to quit): ");
             number = console.nextInt();
-        }
+        } while (number != -1);
 
         System.out.println("The sum is " + sum);
 

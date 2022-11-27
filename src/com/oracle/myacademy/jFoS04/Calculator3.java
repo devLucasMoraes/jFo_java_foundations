@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS04;
+
 public class Calculator3 {
     public double tax = .05;
     public double tip = .15;

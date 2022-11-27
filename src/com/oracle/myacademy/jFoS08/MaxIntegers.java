@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS08;
+
 public class MaxIntegers {
 
     public static void main(String[] args) {

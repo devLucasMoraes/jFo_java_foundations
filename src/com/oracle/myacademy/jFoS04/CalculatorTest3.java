@@ -1,7 +1,10 @@
+package com.oracle.myacademy.jFoS04;
+
 public class CalculatorTest3 {
     public static void main(String[] args) {
         
        Calculator3 calc = new Calculator3();
+       calc.findTotal(10);
        
        //Use the Calculator object and arguments supplied to findTotal()
        //to print the total for each person

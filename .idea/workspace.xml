@@ -1,34 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="321e682a-fbb2-4494-8ed7-32eca535c86e" name="Changes" comment="" />
+    <list default="true" id="2b4c8f50-76fe-4487-b3a3-606bc0f6f8f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS01/exercicio/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS02/exercicio/ProblemSet2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS02/exercicio/ProblemSet2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/FlipCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/RockPaperScissor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/exercicio/ComputeMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/exercicio/ProcessName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/exercicio/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jFo_java_foundations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jFo_java_foundations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS03/Input01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS03/Input01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS03/JavaLibsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS03/exercicio/JavaLibsPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/AddImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/AddImport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Calculator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Calculator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Calculator3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/CalculatorTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/CalculatorTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/CalculatorTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/CalculatorTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/ComputeMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/NameMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/NameMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/ProcessName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Tip01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS04/Tip01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/AgeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/AgeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/AgeValidity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/AgeValidity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/ChkOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/ChkOddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/ComputeFare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/ComputeFare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/StringEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/StringEquality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/SwitchEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/SwitchEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/SwitchEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/SwitchEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/WatchMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/WatchMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/exercicio/ColorRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/exercicio/ColorRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/exercicio/TrafficLightChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/exercicio/TrafficLightChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/exercicio/TrafficLightSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS05/exercicio/TrafficLightSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/BreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/BreakContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/ComputeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/ComputeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/CountChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/CountChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/Countdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/Countdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/Divisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/Divisors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/InfiniteLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/InfiniteLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/ScopeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/ScopeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/SquareRootWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/SquareRootWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/SumofNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/SumofNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/DisplayMultiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/DisplayMultiples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/LoopShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/LoopShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/LoopShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/LoopShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/ValidatePin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/exercicio/ValidatePin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/Cell_Student_7_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/Cell_Student_7_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/PrisonTest_Student_7_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/PrisonTest_Student_7_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/Prisoner_Student_7_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/Prisoner_Student_7_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Cartao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Cartao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/CategoriaDePremios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/CategoriaDePremios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Jogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Terminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS07/exercicio/fliperma/Terminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ArrayEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ArrayEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ArrayEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ArrayEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ArrayListEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ArrayListEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ComputeAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ComputeAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ComputeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ComputeTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ExceptionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ExceptionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/MaxIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/MaxIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/exercicio/ligaDeFutebol/Estatisticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/exercicio/ligaDeFutebol/Estatisticas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/exercicio/ligaDeFutebol/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/exercicio/ligaDeFutebol/Jogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/exercicio/ligaDeFutebol/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/exercicio/ligaDeFutebol/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS09/JavaFXMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oracle/myacademy/jFoS09/JavaFXMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2GrhnR5uIi5Heey1a4c9h7ntAD5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H8ldbTkfGbslconEXgSdRrbmnX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/estudos/javafx-sdk-19/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.oracle.myacademy.jFoS04" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Desktop\materiais_didatcos_anima\programacao_de_solucoes_computacionais\java_fundations\jFo_java_foundations\src\com\oracle\myacademy\jFoS04\exercicio" />
+      <recent name="C:\Users\lucas\Desktop\materiais_didatcos_anima\programacao_de_solucoes_computacionais\java_fundations\jFo_java_foundations\src\com\oracle\myacademy\jFoS03\exercicio" />
+      <recent name="C:\Users\lucas\Desktop\materiais_didatcos_anima\programacao_de_solucoes_computacionais\java_fundations\jFo_java_foundations\src\com\oracle\myacademy\jFoS01\exercicio" />
+      <recent name="C:\Users\lucas\Desktop\materiais_didatcos_anima\programacao_de_solucoes_computacionais\java_fundations\jFo_java_foundations\src\com\oracle\myacademy\jF0S02\exercicio" />
+      <recent name="C:\Users\lucas\Desktop\materiais_didatcos_anima\programacao_de_solucoes_computacionais\java_fundations\jFo_java_foundations\src\com\oracle\myacademy\jFoS04" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="321e682a-fbb2-4494-8ed7-32eca535c86e" name="Changes" comment="" />
-      <created>1667152779639</created>
+      <changelist id="2b4c8f50-76fe-4487-b3a3-606bc0f6f8f4" name="Changes" comment="" />
+      <created>1667674684127</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667152779639</updated>
+      <updated>1667674684127</updated>
+      <workItem from="1667674688163" duration="36000" />
+      <workItem from="1667674759917" duration="2546000" />
+      <workItem from="1667751750559" duration="3445000" />
+      <workItem from="1668204648945" duration="3857000" />
+      <workItem from="1668269504346" duration="9513000" />
+      <workItem from="1668362454773" duration="1431000" />
+      <workItem from="1668369916561" duration="12474000" />
+      <workItem from="1668469737021" duration="7971000" />
+      <workItem from="1668531814230" duration="15303000" />
+      <workItem from="1668643641307" duration="954000" />
+      <workItem from="1668734143809" duration="354000" />
+      <workItem from="1669414817373" duration="2657000" />
+      <workItem from="1669493621741" duration="9111000" />
+      <workItem from="1669562526875" duration="8382000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ArrayListEx2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/Countdown.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/oracle/myacademy/jFoS06/CountChar.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/oracle/myacademy/jFoS08/ComputeTime.java</url>
+          <line>17</line>
+          <properties class="com.oracle.myacademy.jFoS08.ComputeTime" method="getDistance">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

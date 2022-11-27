@@ -1,4 +1,4 @@
-//Section 7, Lesson 6 Starter for Exercise 2 - Slide 16
+package com.oracle.myacademy.jFoS07;//Section 7, Lesson 6 Starter for Exercise 2 - Slide 16
 
 public class Cell_Student_7_6 {
     private String name;

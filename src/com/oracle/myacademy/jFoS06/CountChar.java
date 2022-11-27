@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS06;
+
 public class CountChar {
 
     public static void main(String[] args) {
@@ -6,12 +8,22 @@ public class CountChar {
 
         int max = str.length();
         int count = 0;
+        int i = 0;
 
-//            if (str.charAt(i) != 'w')
-//                continue;
+        while (i < max){
+            if (str.charAt(i) != 'w'){
+                i++;
+                continue;
+            } else {
+                count++;
+                i++;
+            }
 
-            count++;
-        
+
+        }
+
+
+
         System.out.println("Counting w : " + count );
     }
 }

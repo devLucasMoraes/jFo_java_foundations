@@ -1,4 +1,4 @@
-package com.oracle.myacademy.jFoS08.ligaDeFutebol;
+package com.oracle.myacademy.jFoS08.exercicio.ligaDeFutebol;
 
 public class main {
     public static void main(String[] args) {

@@ -1,18 +1,27 @@
-//Section 7, Lesson 6 Starter for Exercise 2 - Slide 16
+package com.oracle.myacademy.jFoS07;//Section 7, Lesson 6 Starter for Exercise 2 - Slide 16
 
 public class Prisoner_Student_7_6 {
     //Fields 
     private String name;
     private double height;
     private int sentence;
-    private Cell cell;
+    private Cell_Student_7_6 cell;
+
+    private static int prisionerCount = 0;
+
+    public static int getPrisionerCount() {
+        return prisionerCount;
+    }
+
+    private int bookingNumber;
     
     //Constructor
-    public Prisoner_Student_7_6(String name, double height, int sentence, Cell cell){
- 	this.name = name;
- 	this.height = height;
- 	this.sentence = sentence;
+    public Prisoner_Student_7_6(String name, double height, int sentence, Cell_Student_7_6 cell){
+ 	    this.name = name;
+ 	    this.height = height;
+ 	    this.sentence = sentence;
         this.cell = cell;
+        prisionerCount++;
     }
     
     //Methods
@@ -25,6 +34,10 @@ public class Prisoner_Student_7_6 {
         System.out.println("Sentence: " +getSentence() +" yrs");
         System.out.println("Cell: " +getCell().getName());
     }
+
+    public static void displayPrisonerCount(){
+        System.out.println(prisionerCount);
+    }
     
     //Getters
     public String getName() {
@@ -36,7 +49,7 @@ public class Prisoner_Student_7_6 {
     public int getSentence() {
         return sentence;
     }
-    public Cell getCell() {
+    public Cell_Student_7_6 getCell() {
         return cell;
     }
     //Setters
@@ -49,7 +62,7 @@ public class Prisoner_Student_7_6 {
     public void setSentence(int sentence) {
         this.sentence = sentence;
     }
-    public void setCell(Cell cell) {
+    public void setCell(Cell_Student_7_6 cell) {
         this.cell = cell;
     }
 }

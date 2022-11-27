@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS06;
+
 import java.util.Scanner;
 
 public class Divisors {
@@ -11,7 +13,7 @@ public class Divisors {
          
         System.out.print("Divisors of " + num+" "+ "="+" " );
 
-        for (int i = 1; i < num; i++) {
+        for (int i = 1; i == num; i++) {
             if (num % i != 0) {
                 continue;
             }

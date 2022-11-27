@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS05;
+
 public class AgeCheck {
    
     public static void main(String[] args) {
@@ -5,10 +7,10 @@ public class AgeCheck {
         
         if (myAge >= 16) {
             System.out.println("I'm old enough to have a driver's license!");
-        }
-        if (myAge <= 16) {
+        }else {
             System.out.println("I'm not old enough yet... :*(");
         }
+
     }
 }
     

@@ -1,9 +1,11 @@
+package com.oracle.myacademy.jFoS06;
+
 public class ScopeTest {
     
     public static void main(String[] args) {
         int i = 0;
         
-        for(int i = 64; i >0; i=i/2 ){
+        for(i = 64; i >0; i=i/2 ){
             System.out.print(i +" ");
         } 
         

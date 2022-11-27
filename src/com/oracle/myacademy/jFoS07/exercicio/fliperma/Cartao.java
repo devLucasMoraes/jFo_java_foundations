@@ -1,4 +1,4 @@
-package com.oracle.myacademy.jFoS07.fliperma;
+package com.oracle.myacademy.jFoS07.exercicio.fliperma;
 
 public class Cartao {
     private int saldoAtual;

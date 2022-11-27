@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS05;
+
 public class ShoppingCart {
 
     public static void main(String[] args) {
@@ -8,8 +10,8 @@ public class ShoppingCart {
         double price = 21.99;
         int quantity = 2;
         double tax = 1.04;
-	double total;
-	String message = custName+" wants to purchase "+quantity+" "+itemDesc;
+	    double total;
+	    String message = custName+" wants to purchase "+quantity+" "+itemDesc;
 
 	// Calculating total cost
         total = (price*quantity)*tax;

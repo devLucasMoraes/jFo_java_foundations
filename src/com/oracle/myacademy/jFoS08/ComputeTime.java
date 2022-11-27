@@ -1,3 +1,5 @@
+package com.oracle.myacademy.jFoS08;
+
 public class ComputeTime {
 
     public static void main(String[] args) {
@@ -14,7 +16,7 @@ public class ComputeTime {
     }
 
     static double getDistance(double x1, double x2, double y1, double y2) {
-        return Math.sqrt((x1 - x1) * (x1 - x2) + (y1 - y2) * (y1 - y2));
+        return Math.sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
     }
 
 }

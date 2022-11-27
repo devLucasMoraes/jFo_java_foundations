@@ -1,4 +1,4 @@
-package com.oracle.myacademy.jFoS08.ligaDeFutebol;
+package com.oracle.myacademy.jFoS08.exercicio.ligaDeFutebol;
 
 public class Jogo {
     int id;
